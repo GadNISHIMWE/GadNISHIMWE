@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Crud**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Html,Css,Javascript**
 
 - 📫 How to reach me **gadnishimwe67@gmail.com**
 
