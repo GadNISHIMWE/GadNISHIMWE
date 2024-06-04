@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React, NodeJS**
 
- - 👯 I’m looking to collaborate on **Crud**
+ - 👯 I’m looking to collaborate on ****
 
 💬 Ask me about **Html,Css,Javascript**
 
