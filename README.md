@@ -3,7 +3,7 @@
 <h3 align="center">A passionate software developer and web designer from Rwanda</h3>
 <img align="right" alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVKKy3ls8JEjK-zHu7OtaimSbnlVOO535ndJ0On8ltpw&s">
 
-- 🔭 I’m currently working on **chatApp**
+- 🔭 I’m currently working on **chatpp**
 
 - 🌱 I’m currently learning **JavaScript, React, NodeJS**
 
