@@ -1,5 +1,5 @@
 [![MasterHead width="900"](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZN0m_8k7DaXbchVZP0H9AAOXwuNxwWHRrF1Vqe2J6w&s )] 
-<h1 align="center" Hi🤝, I'm Gad NISHIMWE</h1>
+<h1 align="center" Hi🤝, I am Gad NISHIMWE</h1>
 <h3 align="center">A passionate software developer and web designer from Rwanda</h3>
 <img align="right" alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVKKy3ls8JEjK-zHu7OtaimSbnlVOO535ndJ0On8ltpw&s">
 
