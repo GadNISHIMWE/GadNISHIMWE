@@ -1,4 +1,4 @@
-[![MasterHead width="900"](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZN0m_8k7DaXbchVZP0H9AAOXwuNxwWHRrF1Vqe2J6w&s )] 
+<!--[![MasterHead width="900"](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZN0m_8k7DaXbchVZP0H9AAOXwuNxwWHRrF1Vqe2J6w&s )] -->
 <h1 align="center" Hello, I'm Gad 
 </h1>
 <h3 align="center">A passionate software developer and web designer from Rwanda</h3>
