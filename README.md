@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/ng_gadnishimwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ng_gadnishimwe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gad nishimwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gad nishimwe" height="30" width="40" /></a>
-<a href="https://fb.com/nigad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nigad" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/nigad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nigad" height="30" width="40" /></a> -->
 <a href="https://instagram.com/gad_nishimwe1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gad_nishimwe1" height="30" width="40" /></a>
 </p>
 
