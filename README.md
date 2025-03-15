@@ -48,8 +48,8 @@
 
 </p>
 
-<!-- # 💫 About Me:
-🔭 I’m currently working on chatApp<br><br>🌱 I’m currently learning JavaScript, React, NodeJS<br><br>👯 I’m looking to collaborate on Crud<br><br>💬 Ask me about Html,Css,Javascript -->
+ # 💫 About Me:
+🔭 I’m currently working on chatApp<br><br>🌱 I’m currently learning JavaScript, React, NodeJS<br><br>👯 I’m looking to collaborate on Crud<br><br>💬 Ask me about Html,Css,Javascript 
 
 
  ## 🌐 Socials:
